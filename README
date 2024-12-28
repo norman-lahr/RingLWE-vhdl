@@ -1,0 +1,43 @@
+COPYRIGHT
+=========
+
+    LWE-Polynomial 0.1 -- Learning-With-Errors-based Encryption System --
+    Copyright (C) 2011 Norman Lahr
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+    Contact: norman@lahr.email
+    
+    Refer to the file LICENSE for the details of the GPL.
+
+
+LWE-Polynomial 0.1 -- Learning-With-Errors-based Encryption System --
+======================================================================
+
+LWE-Polynomial is an implementation of the polynomial ring-based LWE cryptosystem,
+developed by Richard Lindner and Chris Peikert in "Better Key Sizes (and Attacks) 
+for LWE-Based Encryption"(2010).
+
+AUTHOR
+======
+
+Norman Lahr (norman@lahr.email)
+
+
+Known issues:
+=============
+
+Version History:
+================
+- 0.1 First version
